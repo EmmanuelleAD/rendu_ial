@@ -2,3 +2,4 @@ git@github.com:bilal-mesaouri/patientAPI.git
 git@github.com:sikakaleb/ialDataProcessingService.git
 git@github.com:lamya1baidouri/DoctorService.git
 git@github.com:yas-mous/IHM-AL.git
+https://github.com/lamya1baidouri/UserService
